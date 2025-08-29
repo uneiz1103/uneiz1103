@@ -1,4 +1,4 @@
-![logo](https://github.com/uneiz1103/uneiz1103/blob/main/Github_Banner.png)
+![logo](https://github.com/uneiz1103/uneiz1103/blob/main/Banner.png)
 # Uneiz Shaikh
 
 ## Generative AI | Data Analytics | LLM Systems
