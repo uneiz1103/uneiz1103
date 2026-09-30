@@ -1,111 +1,39 @@
-# Hi, I'm Uneiz 👋
+# 👋 Hi, I'm Uneiz
 
-### IT Engineer → Software Engineer → AI Engineer
+I am an **IT Engineer** with 1.8+ years of professional experience, working mainly with **Python, SQL, automation, and backend systems**.
 
-I'm an IT Engineer with 1.8+ years of professional experience. Most of my work involves Python, SQL, automation, and building tools that make repetitive work easier.
+I'm also exploring **Generative AI and LLM applications**, with hands-on work using **LangChain, LangGraph, RAG, vector search, Neo4j, and MCP**.
 
-Outside of work, I've been spending a lot of time building software and AI projects to understand how things actually work under the hood.
-
-Some of the things I've built or worked with:
-
-- A movie application using **PHP and Neo4j**
-- A **RAG-based YouTube chatbot** using LangChain
-- **Vector search** and semantic retrieval applications
-- Python and Selenium automation for real-world workflows
-- Experiments with **LangGraph, LLMs, and MCP**
-
-I'm particularly interested in the space between traditional software engineering and AI — backend systems, databases, retrieval, LLMs, and the tools that connect them.
+I enjoy building things to understand how they work, especially around **databases, backend systems, retrieval, and AI applications**.
 
 ---
 
-## What I'm working with
+## 🛠️ Technical Skills
 
-**Languages**
-
-Python · PHP · SQL · Cypher
-
-**Backend / Systems**
-
-REST APIs · Docker · Git · Composer · Bolt
-
-**Databases**
-
-Neo4j · MySQL · Vector Databases
-
-**AI / LLM**
-
-LangChain · LangGraph · RAG · Embeddings · Vector Search · LLMs · AI Agents · MCP
-
-**Python**
-
-Pandas · NumPy · Scikit-learn · Selenium · SQLAlchemy
+- **Languages**: Python, PHP, SQL, Cypher
+- **AI / LLM**: LangChain, LangGraph, RAG, Embeddings, Vector Search, LLMs, MCP
+- **Databases**: Neo4j, MySQL, Vector Databases
+- **Backend & Tools**: REST APIs, Docker, Git, Composer, Bolt
+- **Python**: Pandas, NumPy, Scikit-learn, Selenium, SQLAlchemy
 
 ---
 
-## A few things I've built
+## 🚀 What I'm Working On
 
-### MovieFlix
-
-A movie application I built to get deeper into **Neo4j and graph-based data modeling**.
-
-It uses PHP and Neo4j to work with movies, actors, directors, and genres. It includes search, filtering, sorting, CRUD operations, and pagination.
-
-**PHP · Neo4j · Cypher · Docker**
+- Building applications with **Neo4j and graph databases**
+- Learning and building **RAG and LLM applications**
+- Exploring **LangGraph and AI agents**
+- Learning **Model Context Protocol (MCP)**
+- Understanding how **graph and vector retrieval** can work together
 
 ---
 
-### YouTube RAG Chatbot
+## 🌐 Connect With Me
 
-A project I built while learning how RAG systems work.
-
-The basic idea is simple:
-
-`YouTube video → Transcript → Chunks → Embeddings → Retrieval → LLM`
-
-It helped me understand the practical side of document processing, embeddings, vector search, retrieval, and prompting.
-
-**Python · LangChain · FAISS · LLMs**
+- 💼 **LinkedIn**: [Uneiz Shaikh](https://linkedin.com/in/uneiz-shaikh/)
+- 🌐 **Portfolio**: [uneizshaikh.dev](https://uneizshaikh.dev)
+- 📧 **Email**: [uneizshaikh1103@gmail.com](mailto:uneizshaikh1103@gmail.com)
 
 ---
 
-### Python Automation
-
-I've also built Python automation for repetitive data-processing workflows.
-
-One of the workflows I worked on processes around **1,000 ASINs** and reduced the processing time from roughly **8 hours to 2 hours**.
-
-**Python · Selenium · Pandas · Excel**
-
----
-
-## What I'm learning
-
-Right now I'm going deeper into:
-
-- LangGraph
-- AI Agents
-- MCP
-- RAG architectures
-- Vector search
-- Graph databases
-- LLM application architecture
-
-I'm trying to learn these by building things rather than just going through tutorials.
-
----
-
-## Engineering Notes
-
-I also write about things I come across while building projects — mostly around databases, retrieval, AI applications, and backend development.
-
-You can find them on my portfolio:
-
-**[uneizshaikh.dev](https://uneizshaikh.dev)**
-
----
-
-## Find me here
-
-[LinkedIn](https://linkedin.com/in/uneiz-shaikh/) ·
-[Portfolio](https://uneizshaikh.dev) ·
-[Email](mailto:uneizshaikh1103@gmail.com)
+⭐️ Feel free to explore my repositories and projects.
