@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uneiz
 
-I am an **IT Engineer** with 1.8+ years of professional experience, working mainly with **Python, SQL, automation, and backend systems**.
+I am an **IT Engineer** with 1.9+ years of professional experience, working mainly with **Python, SQL, automation, and backend systems**.
 
 I'm also exploring **Generative AI and LLM applications**, with hands-on work using **LangChain, LangGraph, RAG, vector search, Neo4j, and MCP**.
 
