@@ -31,7 +31,7 @@ I enjoy building things to understand how they work, especially around **databas
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn**: [Uneiz Shaikh](https://linkedin.com/in/uneiz-shaikh/)
-- 🌐 **Portfolio**: [uneizshaikh.dev](https://uneizshaikh.dev)
+- 🌐 **Portfolio**: [uneizshaikh.dev](https://uneiz-shaikh.vercel.app/)
 - 📧 **Email**: [uneizshaikh1103@gmail.com](mailto:uneizshaikh1103@gmail.com)
 
 ---
